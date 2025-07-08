@@ -1,4 +1,4 @@
-kafka zookeper[D[D[D[[C[Ceper
+kafka zookeper
 Hadoop architecture 
 Shell scripting
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+cloud computing
